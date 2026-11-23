@@ -19,6 +19,7 @@ Enter the code for admin.py and models.py
 Execute Django admin and create details for 10 books
 
 ## PROGRAM
+```
 
 admin.py
 
@@ -66,7 +67,7 @@ models.py
          'quantity',
          'color'
      )
-
+```
 
 ## OUTPUT
 <img width="973" height="600" alt="Screenshot 2026-11-22 101945" src="https://github.com/user-attachments/assets/7b2fbeab-05ff-4a84-ad27-dcee051b8d38" />
